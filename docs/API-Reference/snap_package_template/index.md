@@ -1,1 +1,1 @@
-::: src.snap_package_template
+::: src.praticando_mirascope
